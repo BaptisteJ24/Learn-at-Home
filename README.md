@@ -14,5 +14,6 @@ Disponible sur : https://github.com/BaptisteJ24/Learn-at-Home
 
 Visible à l'adresse : https://www.figma.com/file/i2XKs3YlhESyFWlQWj0SOo/Maquette-Learn%40Home?type=design&node-id=0%3A1&t=7j6dZZJgmNPHhllb-1
 
+Kanban du projet : https://baptiste-jan.notion.site/Dev4U-Learn-Home-ef5fec9f355648a5a64b7491032368f5?pvs=4
 
 Mis à jour le 16/06/23.
